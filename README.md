@@ -2,13 +2,6 @@
 
 A robust, conversational AI assistant for college management powered by **LangChain's Tool Calling Agent** (`create_tool_calling_agent` + `AgentExecutor`). It allows students to query attendance, check examination eligibility, calculate grades, view fee balances, compute library fines, calculate hostel fee structures, and look up student details.
 
-### 📸 Application Execution Demos
-<p align="center">
-  <img src="demo.png/Screenshot%202026-06-20%20130107.png" width="32%" alt="Demo Part 1" />
-  <img src="demo.png/Screenshot%202026-06-20%20130130.png" width="32%" alt="Demo Part 2" />
-  <img src="demo.png/Screenshot%202026-06-20%20130215.png" width="32%" alt="Demo Part 3" />
-</p>
-
 ---
 
 ## 🌟 Features
